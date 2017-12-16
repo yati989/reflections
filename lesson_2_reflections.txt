@@ -1,3 +1,37 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-A master word appears in the bracket adjacent to the directory.I think by initializing it we are officially declaring it as a repository that means we are telling the git to consider it as a repository.
+A master word appears in the bracket adjacent to the directory.I think by initializing it we are officially declaring it as a repository that means we are telling the git to consider it as a repository.Actually it is a wrong question because until we are initialling it is a ordinary directory but not a repository
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+staging contains all the files from the repository or working directory to be committed
+
+whereas repository or working directory contains all the files
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+we can check the status of staging area by calling git status so that we can ensure that wev are about to commit only those files which contains the same logic
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Hmm....
+branching can be useful when we have different things to try like we want something to experiment in are project
+ or like the example of language
+
+ How do the diagrams help you visualize the branch structure?
+
+ Diagrams are very helpful in visualizing the varios branches,on which branch we are currently on,which commits are reachable and which are not
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+result is the creation of a new commit which has two parents one with parent commit of the last commit of one branch and other with parent in other branch
+
+because that makes more sense
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+merging manually is tedious
+
+auto merging is bad
