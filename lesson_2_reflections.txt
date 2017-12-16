@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+A master word appears in the bracket adjacent to the directory.I think by initializing it we are officially declaring it as a repository that means we are telling the git to consider it as a repository.
