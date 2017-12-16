@@ -1,0 +1,52 @@
+How did viewing a diff between two versions of a file help you see the bug that
+ was introduced?
+
+   
+ 
+
+It helped us in a way that we don't need to manually search about the bug saving the older version can help us to see the changes we have done to correct them because those were the changes that are the causes of bug
+ 
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    
+I have answered
+Fill in your answer here
+
+
+What do you think are the pros and cons of manually choosing when to create a 
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+when saving manually it gives us to choose when to save our work so we have apprpriate number of changes
+on the other hand it also increases the of forgetting an important commit or making too much commits. 
+    
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+Because coding related files often contain related items like functions,methods,variables.so if make a change in one file it will automatically effect other files also
+    
+Fill in your answer here
+
+
+How can you use the commands git log and git diff to view the history of files?
+
+By using git log we can take a look at all the commits made in that file
+and by using git diff we can take a look difference between two files 
+    
+Fill in your answer here
+
+
+How might using version control make you more confident to make changes that
+could break something?
+
+we can feel confident about the changes because git allow us to revert back to those changes even if we had made some mistake
+    
+Fill in your answer here
+
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+	I want to try github for developing android apps so that i can make some big complex apps and git will help me in saving my changes also to work with a team 
+    
+Fill in your answer here
